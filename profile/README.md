@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://dlg-solutions.com/logo.png" alt="DLG Solutions" width="120" />
+  <img src="https://dlg-solutions.com/logo.png" alt="DLG Solutions Logo" width="120" />
 </p>
 
 <h1 align="center">DLG Solutions</h1>
@@ -9,45 +9,104 @@
 </p>
 
 <p align="center">
-  <a href="https://dlg-solutions.com">Website</a> •
-  <a href="mailto:admin@dlg-solutions.com">Contacto</a> •
-  <a href="https://github.com/DLGSolutionsMX">GitHub</a>
+  <a href="https://dlg-solutions.com">🌐 Website</a> •
+  <a href="https://github.com/DLGSolutionsMX">GitHub</a> •
+  <a href="mailto:admin@dlg-solutions.com">Contacto</a>
 </p>
 
 ---
 
-## Qué hacemos
+## 🚀 ¿Quiénes somos?
 
-Construimos plataformas y APIs para empresas que necesitan:
-- Centralizar servicios y procesos
-- Escalar sin reescribir todo cada 3 meses
-- Seguridad real (no “un login y ya”)
-- Arquitectura limpia y mantenible
+**DLG Solutions (Digital Logic Gate Solutions)** es una organización enfocada en el diseño y desarrollo de **plataformas digitales robustas**, **APIs empresariales**, **arquitecturas limpias** y **sistemas escalables** para empresas que necesitan crecer sin romperse en el intento.
 
-## Soluciones
+No hacemos software “porque sí”.  
+Diseñamos **soluciones que aguantan producción real**.
 
-- APIs empresariales y microservicios
-- Autenticación y autorización avanzada (RBAC/ABAC)
-- Automatización y digitalización de procesos
-- Infraestructura con Docker, NGINX y CI/CD
+---
 
-## Stack
+## 🧠 Qué resolvemos
 
-**Backend:** .NET 8, ASP.NET Core, NestJS + Fastify  
-**Frontend:** Angular, Ionic, Astro, React, TailwindCSS  
-**Infra:** Docker, Docker Compose, NGINX, VPS (Ubuntu 24.04), GitHub Actions  
-**DB:** SQL Server, PostgreSQL, MySQL, SQLite  
+- Centralización de servicios y microservicios
+- Automatización de procesos empresariales
+- APIs seguras y desacopladas
+- Sistemas preparados para escalar
+- Infraestructura moderna con Docker y CI/CD
+- Control de acceso avanzado (RBAC / ABAC)
 
-## Proyectos
+---
 
-- **DLG_API** — APIs empresariales desacopladas
-- **DLG_IDENTITY** — AuthN/AuthZ avanzado
-- **LANDING** — Plataforma corporativa / presencia digital
-- **DLG_SECURE** — Soluciones para procesos y seguridad
+## 🧩 Stack tecnológico
 
-> Algunos repositorios son privados. Lo público muestra el estándar, no la caja fuerte.
+**Backend**
+- .NET 8 / ASP.NET Core
+- NestJS + Fastify
+- Clean Architecture
+- Entity Framework Core / Dapper / Drizzle ORM
 
-## Contacto
+**Frontend**
+- Angular
+- Ionic
+- Astro
+- React
+- TailwindCSS
+
+**Infraestructura**
+- Docker & Docker Compose
+- NGINX
+- VPS Linux (Ubuntu 24.04)
+- GitHub Actions (CI/CD)
+
+**Base de datos**
+- SQL Server
+- PostgreSQL
+- MySQL
+- SQLite
+
+---
+
+## 🏗️ Proyectos destacados
+
+| Proyecto | Descripción |
+|--------|-------------|
+| **DLG_API** | APIs empresariales desacopladas y escalables |
+| **DLG_IDENTITY** | Autenticación y autorización avanzada |
+| **DLG_SECURE** | Plataforma para gestión segura de procesos |
+| **LANDING** | Plataforma corporativa y branding digital |
+
+> Algunos repositorios son privados.  
+> El código público muestra estándares, no secretos.
+
+---
+
+## 🔐 Seguridad y arquitectura
+
+- Autenticación basada en Identity
+- Autorización avanzada con políticas
+- Separación estricta de capas
+- Principios SOLID aplicados
+- Pensado para producción desde el día uno
+
+Nada de “luego lo arreglamos”.
+
+---
+
+## 🌍 Ubicación
+
+📍 México  
+🌐 Trabajo remoto y soluciones globales
+
+---
+
+## 📬 Contacto
 
 - Web: https://dlg-solutions.com  
-- Email: admin@dlg-solutions.com
+- Email: admin@dlg-solutions.com  
+- GitHub: https://github.com/DLGSolutionsMX  
+
+---
+
+<p align="center">
+  <strong>DLG Solutions</strong><br/>
+  Arquitectura primero. Escalabilidad siempre.
+</p>
